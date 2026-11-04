@@ -1,0 +1,12 @@
+{
+  "name": "Sanjivani AI",
+  "description": "Healthcare that speaks your language. Voice-first, multilingual healthcare access for rural communities, older adults, and families across India.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
